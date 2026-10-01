@@ -12,9 +12,9 @@ LinkedIn post links straight to it.
 
 | Day | Date | Topic | Code |
 |-----|------|-------|------|
-| 0 | 2026-09-29 | Kickoff: the plan | [day-00-kickoff](day-00-kickoff) |
-| 1 | 2026-09-30 | NumPy, vectors, and broadcasting | [day-01-numpy-broadcasting](day-01-numpy-broadcasting) |
-| 2 | 2026-10-01 | Pandas: the in-memory SQL of ML | _coming_ |
+| 0 | 2026-09-30 | Kickoff: the plan | [day-00-kickoff](day-00-kickoff) |
+| 1 | 2026-10-01 | NumPy, vectors, and broadcasting | [day-01-numpy-broadcasting](day-01-numpy-broadcasting) |
+| 2 | 2026-10-02 | Pandas: the in-memory SQL of ML | [day-02-pandas-wrangling](day-02-pandas-wrangling) |
 | … | … | … | … |
 
 Full curriculum is 90 days: Python data stack → math foundations → classical
