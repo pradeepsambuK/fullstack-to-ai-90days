@@ -17,6 +17,7 @@ LinkedIn post links straight to it.
 | 2 | 2026-10-01 | Pandas: the in-memory SQL of ML | [day-02-pandas-wrangling](day-02-pandas-wrangling) |
 | 3 | 2026-10-02 | Visualizing data before modeling | [day-03-data-visualization](day-03-data-visualization) |
 | 4 | 2026-10-03 | Linear algebra intuition: vectors and matrices | [day-04-linear-algebra](day-04-linear-algebra) |
+| 5 | 2026-10-04 | Probability intuition: distributions and Bayes | [day-05-probability-bayes](day-05-probability-bayes) |
 | … | … | … | … |
 
 Full curriculum is 90 days: Python data stack → math foundations → classical
