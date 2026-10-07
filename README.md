@@ -19,6 +19,7 @@ LinkedIn post links straight to it.
 | 4 | 2026-10-03 | Linear algebra intuition: vectors and matrices | [day-04-linear-algebra](day-04-linear-algebra) |
 | 5 | 2026-10-04 | Probability intuition: distributions and Bayes | [day-05-probability-bayes](day-05-probability-bayes) |
 | 7 | 2026-10-06 | The environment: Jupyter, venvs, and reproducibility | [day-07-environment](day-07-environment) |
+| 8 | 2026-10-07 | The ML workflow: data, train, evaluate, iterate | [day-08-ml-workflow](day-08-ml-workflow) |
 | … | … | … | … |
 
 Full curriculum is 90 days: Python data stack → math foundations → classical
