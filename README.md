@@ -1,39 +1,30 @@
-# Full-Stack Developer → AI Developer: 90 Days in Public
+# Machine Learning, Built by Hand
 
-I'm a senior full-stack developer learning AI development from zero, one day
-at a time, in public. Every day I spend ~2 hours learning, write the code,
-and post what I learned on LinkedIn. No guru talk, no course pitch, just the
-real work, including the parts that confused me.
+I'm a senior full-stack engineer (.NET, Azure, Python) who builds machine
+learning systems from scratch. This repo collects those builds: real,
+runnable code — data pipelines, hand-rolled models, and experiments with
+notes on what worked.
 
-**Follow along:** a new folder lands here every morning, and the matching
-LinkedIn post links straight to it.
+## The builds
 
-## The 90 days
+| # | Build | Code |
+|---|-------|------|
+| 00 | Kickoff | [day-00-kickoff](day-00-kickoff) |
+| 01 | NumPy vectors and broadcasting, benchmarked | [day-01-numpy-broadcasting](day-01-numpy-broadcasting) |
+| 02 | Pandas data wrangling | [day-02-pandas-wrangling](day-02-pandas-wrangling) |
+| 03 | Visualizing data before modeling | [day-03-data-visualization](day-03-data-visualization) |
+| 04 | Linear algebra: vectors and matrices | [day-04-linear-algebra](day-04-linear-algebra) |
+| 05 | Probability and Bayes, intuitively | [day-05-probability-bayes](day-05-probability-bayes) |
+| 06 | Gradient descent from scratch | [day-06-gradient-descent](day-06-gradient-descent) |
+| 07 | Reproducible ML environments | [day-07-environment](day-07-environment) |
+| 08 | End-to-end ML workflow: spam classifier | [day-08-ml-workflow](day-08-ml-workflow) |
 
-| Day | Date | Topic | Code |
-|-----|------|-------|------|
-| 0 | 2026-09-29 | Kickoff: the plan | [day-00-kickoff](day-00-kickoff) |
-| 1 | 2026-09-30 | NumPy, vectors, and broadcasting | [day-01-numpy-broadcasting](day-01-numpy-broadcasting) |
-| 2 | 2026-10-01 | Pandas: the in-memory SQL of ML | [day-02-pandas-wrangling](day-02-pandas-wrangling) |
-| 3 | 2026-10-02 | Visualizing data before modeling | [day-03-data-visualization](day-03-data-visualization) |
-| 4 | 2026-10-03 | Linear algebra intuition: vectors and matrices | [day-04-linear-algebra](day-04-linear-algebra) |
-| 5 | 2026-10-04 | Probability intuition: distributions and Bayes | [day-05-probability-bayes](day-05-probability-bayes) |
-| 7 | 2026-10-06 | The environment: Jupyter, venvs, and reproducibility | [day-07-environment](day-07-environment) |
-| 8 | 2026-10-07 | The ML workflow: data, train, evaluate, iterate | [day-08-ml-workflow](day-08-ml-workflow) |
-| … | … | … | … |
+## Run it
 
-Full curriculum is 90 days: Python data stack → math foundations → classical
-ML → deep learning → LLMs → MLOps → capstone. Each day's folder holds the
-actual code I ran plus short notes on what clicked and what didn't.
-
-## Running the code
-
-Each day's folder is self-contained. Most days need only Python 3.10+ and pip:
+Each folder stands alone. Most need just Python 3.10+ and pip:
 
 ```bash
 cd day-01-numpy-broadcasting
 pip install numpy
 python broadcasting.py
 ```
-
-Stay tuned, and try learning with me.
