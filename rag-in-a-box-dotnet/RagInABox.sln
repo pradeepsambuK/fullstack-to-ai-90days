@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B019671F-0954-4CED-9AB2-1B05B4E2E246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagInABox", "src\RagInABox\RagInABox.csproj", "{BAA1B078-9A07-487C-B16A-8B07ECECE7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA1B078-9A07-487C-B16A-8B07ECECE7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA1B078-9A07-487C-B16A-8B07ECECE7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA1B078-9A07-487C-B16A-8B07ECECE7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA1B078-9A07-487C-B16A-8B07ECECE7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAA1B078-9A07-487C-B16A-8B07ECECE7EF} = {B019671F-0954-4CED-9AB2-1B05B4E2E246}
+	EndGlobalSection
+EndGlobal
